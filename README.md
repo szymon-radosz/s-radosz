@@ -1,4 +1,4 @@
-<h3 align="center">Fullstack developer based on Warsaw, Poland.</h3>
+<h3 align="center">Software developer based on Warsaw, Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-radosz" alt="s-radosz" /> </p>
 
