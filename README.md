@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-radosz" alt="s-radosz" /> </p>
 
-- 🔭 I’m currently working on [https://praktyczny-angielski.pl/](https://github.com/s-radosz/wordsTranslationChromeExtensionApp)
+- 🔭 I’m currently working on [https://praktyczny-angielski.pl/](https://praktyczny-angielski.pl/)
 
 - 🌱 I’m currently learning **Gatsby, graphQL**
 
