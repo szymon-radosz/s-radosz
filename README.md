@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-radosz" alt="s-radosz" /> </p>
 
-- 🔭 I’m currently working on [https://praktyczny-angielski.pl/](https://praktyczny-angielski.pl/)
-
 - 🌱 I’m currently learning **Gatsby, graphQL**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/s-radosz](https://github.com/s-radosz)
@@ -19,5 +17,4 @@
 <p align="center">
 <a href="https://twitter.com/s_radosz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="s_radosz" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/szymon-radosz-6938a5118" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="szymon-radosz-6938a5118" height="30" width="30" /></a>
-<a href="https://instagram.com/szymon.radosz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="szymon.radosz" height="30" width="30" /></a>
 </p>
