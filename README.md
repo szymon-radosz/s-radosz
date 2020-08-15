@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Gatsby, graphQL**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/s-radosz](https://github.com/s-radosz)
+- 💻 Portfolio [https://tech-bulb.com/](https://tech-bulb.com/)
 
 - 📝 I write articles on [https://tech-bulb.com/](https://tech-bulb.com/)
 
