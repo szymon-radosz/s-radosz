@@ -2,11 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-radosz" alt="s-radosz" /> </p>
 
-- 🌱 I’m currently learning **Gatsby, graphQL**
-
 - 💻 Portfolio [https://tech-bulb.com/](https://tech-bulb.com/)
-
-- 📝 I write articles on [https://tech-bulb.com/](https://tech-bulb.com/)
 
 - 📫 How to reach me **radoszszymon@gmail.com**
 
