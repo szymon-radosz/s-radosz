@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-radosz" alt="s-radosz" /> </p>
 
-- 💻 Portfolio [https://www.radoszszymon.usermd.net/](radoszszymon.usermd.net)
+- 💻 Portfolio [radoszszymon.usermd.net](https://www.radoszszymon.usermd.net/)
 
 - 📫 How to reach me **radoszszymon@gmail.com**
 
